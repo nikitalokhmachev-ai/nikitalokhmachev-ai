@@ -11,11 +11,12 @@
 <p align="center"><b>AI / ML engineer · multi-agent &amp; agentic AI · computer vision · published researcher</b></p>
 
 <p align="center">
-  <a href="https://github.com/GreyhavenHQ/greywall"><img alt="Greywall" src="https://img.shields.io/badge/Greywall-184★-2ea44f?style=flat-square&logo=go&logoColor=white"></a>
-  <a href="https://github.com/GreyhavenHQ/greyproxy"><img alt="GreyProxy" src="https://img.shields.io/badge/GreyProxy-35★-2ea44f?style=flat-square&logo=go&logoColor=white"></a>
-  <a href="https://github.com/Monadical-SAS/argo"><img alt="Packrat" src="https://img.shields.io/badge/Packrat-WebTorrent-2ea44f?style=flat-square&logo=typescript&logoColor=white"></a>
-  <a href="https://clockoutapp.com/"><img alt="Clockout" src="https://img.shields.io/badge/Clockout-Consumer_AI-7c3aed?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="https://github.com/GreyhavenHQ/greywall"><img alt="Greywall stars" src="https://img.shields.io/github/stars/GreyhavenHQ/greywall?style=flat-square&label=Greywall&logo=go&logoColor=white&color=2ea44f"></a>
+  <a href="https://github.com/GreyhavenHQ/greyproxy"><img alt="GreyProxy stars" src="https://img.shields.io/github/stars/GreyhavenHQ/greyproxy?style=flat-square&label=GreyProxy&logo=go&logoColor=white&color=2ea44f"></a>
   <a href="https://ieeexplore.ieee.org/"><img alt="IEEE PIMRC" src="https://img.shields.io/badge/IEEE_PIMRC-2023-00629b?style=flat-square"></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/nikitalokhmachev-ai"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lokhmachevnikita@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Reach_me-d14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
@@ -26,11 +27,11 @@
 
 I'm an **AI / ML engineer** with **6+ years across production computer vision, multi-agent and LLM systems, RAG and agentic pipelines, and security-focused developer tools.** I ship code, papers, and consumer products.
 
-- `▸` **Open-source contributor to [Greywall](https://github.com/GreyhavenHQ/greywall) (184★)**, a container-free, deny-by-default sandbox for AI coding agents (Go · Linux Landlock + seccomp · macOS sandboxing).
+- `▸` **Open-source contributor to [Greywall](https://github.com/GreyhavenHQ/greywall)**, a container-free, deny-by-default sandbox for AI coding agents (Go · Linux Landlock + seccomp · macOS sandboxing).
 - `▸` **Core developer of [Packrat](https://github.com/Monadical-SAS/argo)**, an open-source `.wacz` web-archive viewer that loads archives **peer-to-peer via WebTorrent**. I drove the WebTorrent integration, the in-archive search experience, the magnet-link share UI, and OPFS-backed browser-local storage.
 - `▸` **AI/ML consultant at [Clockout](https://clockoutapp.com/)** *(consulting engagement)*, a live consumer-AI networking app with 4,500+ communities. Built the AI-introductions matching engine and the AI-based user-approval system.
 - `▸` **Co-founder & Head of AI at Converge Labs** *(stealth)*. Shipped AI-driven consumer matching (3× faster), real-time sentiment moderation (–56 % toxicity, +35 % retention), AI video generation (70 % of editing automated, 5× content speedup), voice-onboarding (+55 % new-user retention).
-- `▸` **Speaker at AI Safety México** (Apr 2026, 91 attendees) on data sovereignty for AI agents; speaker at **AI CDMX**; panelist at the **YPWACC AI panel** (2023).
+- `▸` **Speaker at AI Safety México** (Apr 2026, 91 attendees) on data sovereignty for AI agents; speaker at [**AI CDMX**](https://www.youtube.com/watch?v=RCzJrMWFBZ4) — *Who Pressed Enter?*; panelist at the **YPWACC AI panel** (2023).
 - `▸` **Published at IEEE PIMRC 2023**: *Radio Map Estimation with Deep Dual Path Autoencoders and Skip Connection Learning*.
 - `▸` **M.S. Artificial Intelligence (4.0 / 4.0, Fulbright Scholar)** · University of North Texas.
 - `▸` Open to senior IC, staff, founding-engineer, and product-engineering-lead roles in AI/ML, multi-agent systems, agentic AI, computer vision, developer tools, and security-focused AI infra.
@@ -56,20 +57,9 @@ Research      Vision transformers · Grounding DINO · Segment Anything · GANs 
 
 | Project | Role | What it is | Stack | License |
 |---|---|---|---|---|
-| **[GreyhavenHQ/greywall](https://github.com/GreyhavenHQ/greywall)** · 184★ | Contributor | Container-free, deny-by-default sandbox for AI coding agents (Claude Code, OpenCode, etc.). Kernel-enforced filesystem, network, and syscall isolation. | Go · Landlock · seccomp · macOS sandboxing · Homebrew | Apache-2.0 |
-| **[GreyhavenHQ/greyproxy](https://github.com/GreyhavenHQ/greyproxy)** · 35★ | Contributor | SOCKS5 + DNS proxy companion to Greywall. ~4 ms per-request overhead. | Go · SOCKS5 · TLS interception | MIT |
+| **[GreyhavenHQ/greywall](https://github.com/GreyhavenHQ/greywall)** | Contributor | Container-free, deny-by-default sandbox for AI coding agents (Claude Code, OpenCode, etc.). Kernel-enforced filesystem, network, and syscall isolation. | Go · Landlock · seccomp · macOS sandboxing · Homebrew | Apache-2.0 |
+| **[GreyhavenHQ/greyproxy](https://github.com/GreyhavenHQ/greyproxy)** | Contributor | SOCKS5 + DNS proxy companion to Greywall. ~4 ms per-request overhead. | Go · SOCKS5 · TLS interception | MIT |
 | **[Monadical-SAS/argo](https://github.com/Monadical-SAS/argo)** *(Packrat)* | **Core developer** | Open-source `.wacz` web-archive viewer that loads archives peer-to-peer. I shipped the WebTorrent integration, in-archive search, the magnet-link share UI, and OPFS-backed browser-local storage. | TypeScript · React · WebTorrent · OPFS · Service Workers | OSS |
-| **[GreyhavenHQ/homebrew-tap](https://github.com/GreyhavenHQ/homebrew-tap)** | Contributor | Homebrew tap that ships Greywall to macOS users. | Ruby | OSS |
-| **[GreyhavenHQ/docs](https://github.com/GreyhavenHQ/docs)** | Contributor | Public documentation site for the Greyhaven OSS stack. | TypeScript | OSS |
-
----
-
-### `// SHIPPED_PRODUCTS`
-
-| Product | Role | What I built |
-|---|---|---|
-| **[Clockout](https://clockoutapp.com/)**. AI-powered local professional-networking app (4,500+ communities, AI-driven introductions, gamified engagement). | **AI / ML Consultant** | Built consumer-AI systems on the platform: the **AI-introductions matching engine** and the **AI-based user-approval system** behind the "no spam, no endless scrolling" promise. |
-| **Converge Labs** *(stealth consumer AI startup)* | **Co-founder & Head of AI** | AI matching engine (**3× faster** matches), real-time sentiment moderation chatbot (**–56 % toxicity, +35 % retention**), AI video generation (**70 %** of editing automated, **5× content-production speedup**), voice-onboarding (**+55 % new-user retention**). Stack: Python · RAG · LangChain · vector DB · LLMs · Docker · FastAPI · Replicate · RunwayML. |
 
 ---
 
