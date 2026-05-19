@@ -33,7 +33,7 @@ I'm an **AI / ML engineer** with **6+ years across production computer vision, m
 
 - `▸` **Open-source contributor to [Greywall](https://github.com/GreyhavenHQ/greywall)**, a container-free, deny-by-default sandbox for AI coding agents (Go · Linux Landlock + seccomp · macOS sandboxing).
 - `▸` **Core developer of [Packrat](https://github.com/Monadical-SAS/argo)**, an open-source `.wacz` web-archive viewer that loads archives **peer-to-peer via WebTorrent**. I drove the WebTorrent integration, the in-archive search experience, the magnet-link share UI, and OPFS-backed browser-local storage.
-- `▸` **AI/ML consultant at [Clockout](https://clockoutapp.com/)** *(consulting engagement)*, a live consumer-AI networking app with 4,500+ communities. Built the AI-introductions matching engine and the AI-based user-approval system.
+- `▸` **AI/ML consultant at [Clockout](https://apps.apple.com/us/app/clockout-network-socially/id1564725856)** *(consulting engagement)*, a live consumer-AI networking app with 4,500+ communities. Built the AI-introductions matching engine and the AI-based user-approval system.
 - `▸` **Co-founder & Head of AI at Converge Labs** *(stealth)*. Shipped AI-driven consumer matching (3× faster), real-time sentiment moderation (–56 % toxicity, +35 % retention), AI video generation (70 % of editing automated, 5× content speedup), voice-onboarding (+55 % new-user retention).
 - `▸` **Speaker at AI Safety México** (Apr 2026, 91 attendees) on data sovereignty for AI agents; speaker at [**AI CDMX**](https://www.youtube.com/watch?v=RCzJrMWFBZ4) — *Who Pressed Enter?*; panelist at the **YPWACC AI panel** (2023).
 - `▸` **Published at IEEE PIMRC 2023**: *Radio Map Estimation with Deep Dual Path Autoencoders and Skip Connection Learning*.
@@ -109,6 +109,7 @@ Research      Vision transformers · Grounding DINO · Segment Anything · GANs 
 
 - `▸` **Email**: [lokhmachevnikita@gmail.com](mailto:lokhmachevnikita@gmail.com)
 - `▸` **LinkedIn**: [linkedin.com/in/nikitalokhmachev-ai](https://www.linkedin.com/in/nikitalokhmachev-ai)
+- `▸` **Phone**: (940) 594-3268
 
 <!--
 ================================================================================
