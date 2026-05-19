@@ -27,6 +27,10 @@
 
 I'm an **AI / ML engineer** with **6+ years across production computer vision, multi-agent and LLM systems, RAG and agentic pipelines, and security-focused developer tools.** I ship code, papers, and consumer products.
 
+---
+
+### `// HIGHLIGHTS`
+
 - `▸` **Open-source contributor to [Greywall](https://github.com/GreyhavenHQ/greywall)**, a container-free, deny-by-default sandbox for AI coding agents (Go · Linux Landlock + seccomp · macOS sandboxing).
 - `▸` **Core developer of [Packrat](https://github.com/Monadical-SAS/argo)**, an open-source `.wacz` web-archive viewer that loads archives **peer-to-peer via WebTorrent**. I drove the WebTorrent integration, the in-archive search experience, the magnet-link share UI, and OPFS-backed browser-local storage.
 - `▸` **AI/ML consultant at [Clockout](https://clockoutapp.com/)** *(consulting engagement)*, a live consumer-AI networking app with 4,500+ communities. Built the AI-introductions matching engine and the AI-based user-approval system.
