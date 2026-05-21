@@ -109,7 +109,6 @@ Research      Vision transformers · Grounding DINO · Segment Anything · GANs 
 
 - `▸` **Email**: [lokhmachevnikita@gmail.com](mailto:lokhmachevnikita@gmail.com)
 - `▸` **LinkedIn**: [linkedin.com/in/nikitalokhmachev-ai](https://www.linkedin.com/in/nikitalokhmachev-ai)
-- `▸` **Phone**: (940) 594-3268
 
 <!--
 ================================================================================
